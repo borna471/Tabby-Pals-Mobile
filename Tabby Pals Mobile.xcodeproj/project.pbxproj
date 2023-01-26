@@ -19,6 +19,7 @@
 		024B4641297FAE66005928FF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		024B4643297FAE68005928FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		024B4646297FAE68005928FF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		028AB0372981FD4800F67630 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		024B4633297FAE66005928FF = {
 			isa = PBXGroup;
 			children = (
+				028AB0372981FD4800F67630 /* README.md */,
 				024B463E297FAE66005928FF /* Tabby Pals Mobile */,
 				024B463D297FAE66005928FF /* Products */,
 			);
