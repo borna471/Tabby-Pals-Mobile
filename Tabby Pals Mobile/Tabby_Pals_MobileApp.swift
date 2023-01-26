@@ -13,5 +13,6 @@ struct Tabby_Pals_MobileApp: App {
         WindowGroup {
             ContentView()
         }
+        
     }
 }

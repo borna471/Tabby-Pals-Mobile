@@ -13,9 +13,25 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
+            
+            let img = Image(systemName: "person")
+                .imageScale(.large)
+                
             Text("Hello, world!")
+                .bold()
+            Image("Tabby-Pals-logo")
+                
+                .border(Color.black, width: 5)
+                .cornerRadius(20)
+            
+            
+            
+                
+            
         }
-        .padding()
+
+//        UIImage(named: "Logo")
+        
     }
 }
 
